@@ -1,0 +1,17 @@
+{
+  "General": {
+    "Username": "hello@gmail.com",
+    "Password": "123456",
+    "MailServer": "127.0.0.1",
+    "SMTP": 2225,
+    "POP3": 3335,
+    "Autoload": 3
+  },
+  "Filters": {
+    "Addresses": ["ahihi@testing.com", "ahuu@testing.com"],
+    "Keywords_subject": ["urgent", "ASAP"],
+    "Keywords_content": ["report", "meeting"],
+    "Keywords_spam": ["spam", "virus", "hack", "crack"],
+    "Keywords_important": ["urgent", "ASAP"]
+  }
+}
